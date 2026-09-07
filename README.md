@@ -105,23 +105,23 @@ O Quadro 1 resume a contribuição de cada trabalho correlato para o presente pr
 
 ## 3. Arquitetura do Sistema
 
-
+// Incluir a arquitetura cliente-servidor com ESP32
 
 ## 4. Desenvolvimento
 
-
+// Aqui incluimos a sequencia do projeto, como API, confgiruação do ESP32, pagina de Web client, etc.
 
 ## 5. Testes e Validação
 
-
+// Indicamos os testes de ensaio efetuados para comprovar o funcionamento
 
 ## 6. Resultados
 
-
+// Indicamo o procedimento para obter os resultados práticos
 
 ## 7. Conclusão
 
-
+// Colocamos nossas conclusões a respeito do projeto como um todo e melhorias a serem efetuadas.
 
 ## 8. Referências
 
