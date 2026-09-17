@@ -4,9 +4,10 @@
 > Instituição: PUC-PR
 > Curso/Disciplina: Conectividade de Sistemas Ciberfísicos (Turma 2o A)
 > Autores: Grupo 3
-            Victor de Souza Maia
-            Luma Felipe Area Lima
-            Pedro Henrique de Andrade de Moraes
-            Pedro Iago Moraes
-            Rayka Souza
+
+> Victor de Souza Maia
+  Luma Felipe Area Lima
+  Pedro Henrique de Andrade de Moraes
+  Pedro Iago Moraes
+  Rayka Souza
 > Orientador: Professor Fábio Bettio
